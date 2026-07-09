@@ -738,6 +738,35 @@ For each recommended enterprise, provide:
 - **Overall 3.6/5** — Highest margin but higher regulatory barrier
 - Cost: €1.71/bar (70-80% farm ingredients). Retail: €7-12/bar. Progression: Melt-and-pour (€50) → Cold process (€300) → Dedicated (€1,000+)
 
+**Medicinal Herb Garden & Apothecary** (Fast-Return, Value-Added, v0.4):
+- Space: 7.4-200m². Start with 80 sq ft template, scale to demand.
+- Climate: Most medicinal herbs thrive in Miranda (cold-hardy: echinacea, valerian, elderberry) and Perais (warm-climate: holy basil, ashwagandha).
+- Water: Moderate. Drip irrigation for consistent quality.
+- Legal: Tier 1 for dried herbs/teas (agricultural registration). Tier 4 for salves/balms (cosmetics — CPSR). Never make medical claims.
+- Infrastructure: Drying racks, dehydrator, jars, tincture supplies.
+- Labor: Moderate (2-4 hrs/week). Seasonal peaks at harvest.
+- Fast return: First harvest 60-90 days. Products sell year-round (wellness not seasonal).
+- Market: €20-60/kg dried medicinal herbs. Tinctures €12-20/30ml. Tea blends €8-12/50g.
+- Synergy: Beeswax for salves. Same dehydrator as culinary herbs. Workshop curriculum ready.
+- **Overall**: 4.8/5 — Highest value/m² of any crop category. €104-318/m².
+- Key species: Calendula, chamomile, echinacea, lemon balm, peppermint, yarrow, lavender, valerian, elderberry, St. John's wort.
+- Investment: €250-580 (7.4m² starter). Revenue Year 1: €500-1,500. Year 3: €12,000-25,000.
+
+**Herbal Tea Blending** (Fast-Return, Tier 1, v0.4):
+- Products: Sleep blend (chamomile+lavender+lemon balm), Digest blend (peppermint+ginger+fennel), Calm blend (holy basil+lemon balm+rose), Energy blend (rosemary+sage+mint)
+- Legal: Tier 1 — dried agricultural product. No health claims.
+- Equipment: Scale, mixing bowls, tins/jars, labels. €100-300.
+- Margin: Cost €0.80-1.50 per 50g tin. Retail €6-12. 75-87% margin.
+- Revenue: €3,000-12,000/year (500-1,000 tins).
+- Workshop link: "Create Your Own Tea Blend" — €25-35/person.
+
+**Foraging/Wildcrafting Tours** (Fast-Return, No Infrastructure, v0.4):
+- No garden needed. Walk existing land identifying wild medicinal plants.
+- Miranda species: Wild thyme, oregano, rosemary (naturalized), oak moss, elderberry, rose hip, nettle, dandelion.
+- Format: 2-3hr guided walk. Identify → harvest → tea tasting.
+- Revenue: €20-35/person × 8-12 = €160-420 per walk. Monthly walks: €1,500-4,000/year.
+- Synergy: Participants buy dried herbs + teas after walk. Foraging calendar = year-round reason to visit.
+
 **Farm Workshops & Education** (Fast-Return, No Accommodation):
 - Herb harvest, beekeeping intro, farm-to-table, soap making
 - Climate 5, Legal 4 (no tourism license for activities only), Infra 3, Labor 3 (high on workshop days), Fast ROI 5, Market 4, Synergy 5 (markets products to attendees)
