@@ -39,3 +39,4 @@
 | Spec | Status | Score |
 |------|--------|-------|
 | [spec_1](spec_1/) | Evaluated | 71/100 |
+| [spec_2](spec_2/) | Evaluated | 80/100 |

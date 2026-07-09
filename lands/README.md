@@ -7,6 +7,7 @@ Farm property evaluations and enterprise analyses.
 | # | Region | Spec | Property | Score | Recommendation | Date |
 |---|--------|------|----------|-------|----------------|------|
 | 1 | Miranda do Douro, PT | spec_1 | 5ha, 2 wells, unfinished building | 71/100 | BUY with conditions | 2026-07 |
+| 2 | Miranda do Douro, PT | spec_2 | 0.6ha, flat, fenced, public water, fruit trees, building | 80/100 | BUY | 2026-07 |
 
 ## Structure
 
