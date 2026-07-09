@@ -1,6 +1,6 @@
 # Farm Project - Claude Skills Documentation
 
-This directory contains 8 specialized AI skills designed to help you evaluate land, design permaculture farms, and implement your farm project in Portugal (and future expansion to Spain, Brazil, and other countries).
+This directory contains 9 specialized AI skills designed to help you evaluate land, design permaculture farms, and implement your farm project in Portugal (and future expansion to Spain, Brazil, and other countries).
 
 ## Skills Overview
 
@@ -147,7 +147,26 @@ This directory contains 8 specialized AI skills designed to help you evaluate la
 
 ---
 
-### 8. Knowledge Base Manager
+### 8. Market Researcher
+**Purpose**: Fetch real Portuguese farmer/producer data from reformaagraria.pt — prices, products, contacts, locations
+
+**Use when you need to**:
+- Find actual market prices for products in your region
+- Identify competitors and their pricing
+- Discover producers to visit or learn from
+- Validate revenue projections with real data
+- Find market gaps (products with no local suppliers)
+
+**Key outputs**:
+- Price tables with regional breakdowns
+- Competitor analysis matrix
+- Producer contact information
+- Farm visit recommendations
+- Market gap identification
+
+---
+
+### 9. Knowledge Base Manager
 **Purpose**: Maintain and expand the modular farm decision-support system
 
 **Use when you need to**:
@@ -218,6 +237,7 @@ All skills are stored in:
 ├── land-evaluator.md
 ├── financial-planner.md
 ├── phased-implementation-planner.md
+├── market-researcher.md
 └── knowledge-base-manager.md
 ```
 
