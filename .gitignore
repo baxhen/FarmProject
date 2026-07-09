@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PDFs (large binaries — commit separately or use Git LFS)
+*.pdf
+
+# IDE
+.vscode/
+
+# Claude internal (session transcripts, plans — not project content)
+.claude/plans/
+
+# Temp/backup
+*.tmp
+*.bak
+*~
