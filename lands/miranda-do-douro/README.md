@@ -42,3 +42,4 @@
 | [spec_2](spec_2/) | Evaluated | 80/100 |
 | [spec_3](spec_3/) | Evaluated | 70/100 |
 | [spec_4](spec_4/) | Evaluated | 75/100 |
+| [spec_5](spec_5/) | Evaluated | 75/100 |
