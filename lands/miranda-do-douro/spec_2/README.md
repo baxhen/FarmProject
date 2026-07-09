@@ -1,6 +1,6 @@
 # Spec 2 — Miranda do Douro Property
 
-**Score**: 80/100 — **BUY**
+**Score**: 81/100 — **BUY**
 **Size**: ~0.6ha (4,560-6,000m²)
 **Price**: Unknown (request from agent)
 **Key features**: Flat, fenced, public water, 5yr fruit trees, building with kitchen + bathroom + septic

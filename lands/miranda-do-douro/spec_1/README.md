@@ -1,6 +1,6 @@
 # Spec 1 — Miranda do Douro Property
 
-**Score**: 71/100 — **BUY with conditions**
+**Score**: 72/100 — **BUY with conditions**
 **Price**: €103,000
 **Size**: 5 hectares
 **Key features**: 2 wells, unfinished 1980s building, hillside terrain

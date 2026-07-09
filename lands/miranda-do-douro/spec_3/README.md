@@ -1,6 +1,6 @@
 # Spec 3 — Sendim Property (Miranda do Douro)
 
-**Score**: 70/100 — **BUY**
+**Score**: 72/100 — **BUY**
 **Size**: 14,300 m² (1.43 ha)
 **Price**: €22,000 (€1.54/m², €15,385/ha)
 **Key features**: Stone walls, south slope, Espaço Agrícola, NOT RAN/REN, oak + pine trees, near Sendim

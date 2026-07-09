@@ -1,6 +1,6 @@
 # Spec 4 — Miranda do Douro City Periphery
 
-**Score**: 75/100 — **BUY**
+**Score**: 78/100 — **BUY**
 **Size**: 29,350 m² (2.94 ha)
 **Price**: €125,000 (€4.26/m², €42,590/ha)
 **Key features**: Stream, 100m EN218 frontage, lameiro (wet meadow), city periphery, "possibilidades de construção"

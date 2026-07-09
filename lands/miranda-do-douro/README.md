@@ -38,8 +38,8 @@
 
 | Spec | Status | Score |
 |------|--------|-------|
-| [spec_1](spec_1/) | Evaluated | 71/100 |
-| [spec_2](spec_2/) | Evaluated | 80/100 |
-| [spec_3](spec_3/) | Evaluated | 70/100 |
-| [spec_4](spec_4/) | Evaluated | 75/100 |
-| [spec_5](spec_5/) | Evaluated | 75/100 |
+| [spec_1](spec_1/) | Evaluated | 72/100 |
+| [spec_2](spec_2/) | Evaluated | 81/100 |
+| [spec_3](spec_3/) | Evaluated | 72/100 |
+| [spec_4](spec_4/) | Evaluated | 78/100 |
+| [spec_5](spec_5/) | Evaluated | 77/100 |

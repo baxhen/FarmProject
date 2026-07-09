@@ -1,6 +1,6 @@
 # Spec 5 — Miranda do Douro (Well + Stream)
 
-**Score**: 75/100 — **BUY**
+**Score**: 77/100 — **BUY**
 **Size**: 6,670 m² (0.667 ha)
 **Price**: €30,000 (€4.50/m², €44,980/ha)
 **Key features**: **Well + stream**, Espaço Agrícola, NOT RAN/REN, near city, near EN218

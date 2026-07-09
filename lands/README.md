@@ -6,12 +6,12 @@ Farm property evaluations and enterprise analyses.
 
 | # | Region | Spec | Property | Score | Recommendation | Date |
 |---|--------|------|----------|-------|----------------|------|
-| 1 | Miranda do Douro, PT | spec_1 | 5ha, 2 wells, unfinished building | 71/100 | BUY with conditions | 2026-07 |
-| 2 | Miranda do Douro, PT | spec_2 | 0.6ha, flat, fenced, public water, fruit trees, building | 80/100 | BUY | 2026-07 |
+| 1 | Miranda do Douro, PT | spec_1 | 5ha, 2 wells, unfinished building | 72/100 | BUY with conditions | 2026-07 |
+| 2 | Miranda do Douro, PT | spec_2 | 0.6ha, flat, fenced, public water, fruit trees, building | 81/100 | BUY | 2026-07 |
 | 3 | Perais, Vila Velha de Ródão, PT | spec_1 | 1ha, flat, oak grove (montado), fenced | 48/100 | PROBABLY NOT (homestead) / BUY at €7k (conservation asset) | 2026-07 |
-| 4 | Miranda do Douro, PT | spec_3 | 1.43ha, stone walls, south slope, Espaço Agrícola, Sendim | 70/100 | BUY at €22k | 2026-07 |
-| 5 | Miranda do Douro, PT | spec_4 | 2.94ha, stream, EN218 frontage, lameiro, city periphery | 75/100 | BUY (negotiate €90-110k) | 2026-07 |
-| 6 | Miranda do Douro, PT | spec_5 | 0.67ha, well + stream, Espaço Agrícola, near city | 75/100 | BUY at €30k | 2026-07 |
+| 4 | Miranda do Douro, PT | spec_3 | 1.43ha, stone walls, south slope, Espaço Agrícola, Sendim | 72/100 | BUY at €22k | 2026-07 |
+| 5 | Miranda do Douro, PT | spec_4 | 2.94ha, stream, EN218 frontage, lameiro, city periphery | 78/100 | BUY (negotiate €90-110k) | 2026-07 |
+| 6 | Miranda do Douro, PT | spec_5 | 0.67ha, well + stream, Espaço Agrícola, near city | 77/100 | BUY at €30k | 2026-07 |
 
 ## Structure
 
