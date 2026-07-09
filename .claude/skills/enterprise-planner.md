@@ -760,6 +760,52 @@ For each recommended enterprise, provide:
 - Revenue: €3,000-12,000/year (500-1,000 tins).
 - Workshop link: "Create Your Own Tea Blend" — €25-35/person.
 
+**Pomegranate Orchard** (Medium-Term, User Priority, v0.5):
+- Climate: HOT/DRY ideal. Miranda = good (hot summers, 400-500mm). Perais = excellent (600-800mm, true Med). Cold-hardy to -12°C.
+- Soil: Tolerates poor/rocky/alkaline. Miranda schist = fine. Well-drained essential.
+- Water: Drought-tolerant once established. Irrigation for first 2 years. Stream/well ideal.
+- Legal: Simple — fruit crop (5).
+- Infrastructure: Minimal. Trees on 3-4m spacing. 250-400 trees/ha.
+- Labor: Low. Prune winter, harvest fall. 2-3 weeks/year peak.
+- Fast return: Year 3-4 first harvest. Year 6-8 full production.
+- Long-term: 30-50+ year productive life. Appreciating asset.
+- Market: €2-5/kg fresh. Processed: juice €5-8/L, arils €15-25/kg dried. Export potential.
+- Synergy: Understory herbs/chickens. Bees love pomegranate flowers. Orchard = tourism (blossom, harvest).
+- **Overall**: 4.3/5 — Perfect Miranda climate match. Low maintenance. Multiple products from one crop.
+- Varieties: Wonderful, Mollar de Elche, Acco (soft-seed for fresh eating).
+- Investment: €500-1,000 (50 trees, 500m²). Revenue Year 5: €1,500-5,000. Year 10: €3,000-10,000.
+
+**Rosemary Enterprise — Dedicated** (Fast-Return Perennial, User Priority, v0.5):
+- Climate: PERFECT for Miranda. Hot dry summers = maximum essential oil. Cold-hardy to -15°C.
+- Soil: Poor/rocky/limestone = better oil. Miranda schist = ideal stress conditions for oil production.
+- Water: Minimal once established (drought-tolerant). Irrigation only for establishment.
+- Legal: Tier 1 for dried culinary. Tier 4 for essential oil (cosmetic).
+- Infrastructure: Drying racks, distillation still (€500-1,500), pruning shears.
+- Labor: Low. Prune after flowering. Harvest 1-2×/year. Distillation in batches.
+- Fast return: Light harvest Year 1. Full production Year 2-3.
+- Long-term: 15-25 year productive life. Minimal maintenance.
+- Market: Dried culinary €15-35/kg. Essential oil €6-9/10ml (Bragança price validated). Fresh bundles €1-2/bunch. Honey from rosemary flowers (premium €15-22/kg monofloral).
+- Synergy: Bees (rosemary honey premium). Soap/cosmetics (essential oil). Culinary herbs. Tourism (distillation demos). Fire-resistant landscaping.
+- **Overall**: 4.8/5 — Highest climate match. Multiple revenue streams. Low labor. User's top priority.
+- Products: Fresh bundles, dried culinary, essential oil, hydrosol, infused oil, soap ingredient, honey forage.
+- Investment: €200-500 (250 plants, 250m²). Revenue Year 2+: €2,500-8,000. With distillation: +€2,000-5,000.
+
+**Plant Seedling Nursery** (Fast-Return, High Value/m², v0.5):
+- Climate: Indoor/outdoor. Protected propagation area needed. Miranda = cold frame/greenhouse for spring starts.
+- Space: 50-200m². Very high value per m². Can start with cold frames (€100-300).
+- Water: Consistent moisture for seedlings. Drip or mist system.
+- Legal: Agricultural activity registration. Plant passport for certain species (EU regulation). Organic certification optional.
+- Infrastructure: Propagation benches, trays, potting mix, cold frames/greenhouse, shade cloth, labels.
+- Labor: Moderate. Daily watering/checking. Seasonal peaks (spring = main season).
+- Fast return: 4-12 weeks from seed/cutting to saleable plant. Same-season revenue.
+- Market: €1.50-6/plant for vegetable/herb seedlings. €6-15/plant for fruit tree saplings. €15-20/tree for grafted varieties. Bragança: "Mudas de Horticulos" at €20/pack.
+- Synergy: Supplies own farm (saves €500-1,500/yr in purchased plants). Sells surplus. Workshops: "Grow Your Own Garden" seedling sales day.
+- **Overall**: 4.5/5 — Highest value/m². Circular (supplies own farm). Scalable. User priority.
+- Products: Vegetable seedlings, herb plants, fruit tree saplings, grafted varieties, medicinal plant starts.
+- Investment: €300-800 (50m² starter). Revenue Year 1: €1,500-5,000. Year 3: €5,000-15,000.
+- Key species for Miranda: Pomegranate, rosemary, lavender, almond, fig, olive, hardy kiwi, honeyberry, medicinal herbs (calendula, echinacea, etc.).
+- Bragança nursery price reference: Olive 8yr BIO trees at €15/un. Grafted fruit trees at €10-25/un.
+
 **Foraging/Wildcrafting Tours** (Fast-Return, No Infrastructure, v0.4):
 - No garden needed. Walk existing land identifying wild medicinal plants.
 - Miranda species: Wild thyme, oregano, rosemary (naturalized), oak moss, elderberry, rose hip, nettle, dandelion.
